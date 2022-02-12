@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/simpledmx/__init__.py
+src/simpledmx_dkgaraujo.egg-info/PKG-INFO
+src/simpledmx_dkgaraujo.egg-info/SOURCES.txt
+src/simpledmx_dkgaraujo.egg-info/dependency_links.txt
+src/simpledmx_dkgaraujo.egg-info/requires.txt
+src/simpledmx_dkgaraujo.egg-info/top_level.txt
