@@ -1,1 +1,4 @@
+build/
 dist/
+src/*.egg-info
+src/simpledmx/__pycache__
