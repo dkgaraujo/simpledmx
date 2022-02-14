@@ -2,7 +2,7 @@
 
 `simpledmx` is a minimalistic Python package experience with SDMX that fetches all data from sources defined by the user. 
 
-Although [SDMX](www.sdmx.org) is very flexible, the main use case of `simpledmx` is when a user wants to download all available data from a specific source(s), for a given frequency (eg, annual, semi-annual, quarterly, monthly, daily). `simpledmx` uses `pandasdmx` as the backend to explore and fetch datasets from sources using SDMX. Further details on the sources and dataflows can be found in the `pandasdmx` [documentation](https://pandasdmx.readthedocs.io/en/v1.0/).
+Although [SDMX](https://www.sdmx.org) is very flexible, the main use case of `simpledmx` is when a user wants to download all available data from a specific source(s), for a given frequency (eg, annual, semi-annual, quarterly, monthly, daily). `simpledmx` uses `pandasdmx` as the backend to explore and fetch datasets from sources using SDMX. Further details on the sources and dataflows can be found in the `pandasdmx` [documentation](https://pandasdmx.readthedocs.io/en/v1.0/).
 
 ## Install
 
